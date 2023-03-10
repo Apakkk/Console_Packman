@@ -1,0 +1,8 @@
+C:\Users\yusuf\source\repos\ortak3\ortak3\obj\Debug\ortak3.csproj.AssemblyReference.cache
+C:\Users\yusuf\source\repos\ortak3\ortak3\obj\Debug\ortak3.csproj.SuggestedBindingRedirects.cache
+C:\Users\yusuf\source\repos\ortak3\ortak3\obj\Debug\ortak3.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\ortak3\ortak3\bin\Debug\ortak3.exe.config
+C:\Users\yusuf\source\repos\ortak3\ortak3\bin\Debug\ortak3.exe
+C:\Users\yusuf\source\repos\ortak3\ortak3\bin\Debug\ortak3.pdb
+C:\Users\yusuf\source\repos\ortak3\ortak3\obj\Debug\ortak3.exe
+C:\Users\yusuf\source\repos\ortak3\ortak3\obj\Debug\ortak3.pdb
